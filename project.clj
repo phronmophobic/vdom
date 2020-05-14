@@ -1,4 +1,4 @@
-(defproject vdom "0.2.2-SNAPSHOT"
+(defproject com.phronmophobic/vdom "0.2.2"
   :description "Virtual-dom library"
   :url "https://github.com/exupero/vdom"
   :license {:name "MIT License"
